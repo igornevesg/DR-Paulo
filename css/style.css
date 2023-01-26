@@ -6771,6 +6771,9 @@ section { padding: 80px 0; position: relative; width: 100%; overflow: hidden; z-
 #topbar {
   display: none;;
 }
+.hipocrates {
+  font-size: 10px !important;
+}
 }
 
 @media (max-width: 1199px) and (min-width: 990px) {
