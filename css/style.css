@@ -6764,6 +6764,18 @@ section { padding: 80px 0; position: relative; width: 100%; overflow: hidden; z-
 	margin-top:16px;
 }
 
+.paulo-top {
+  width: 30rem;
+}
+
+.botao-links {
+  width: 50vw;
+}
+
+.link-links a:hover {
+  width: 60vw;
+}
+
 @media (max-width: 768px) {
 .logo {
   width: 100% !important;
@@ -6773,6 +6785,12 @@ section { padding: 80px 0; position: relative; width: 100%; overflow: hidden; z-
 }
 .hipocrates {
   font-size: 10px !important;
+}
+.paulo-top {
+  width: 20rem;
+}
+.botao-links {
+  width: 90vw;
 }
 }
 
@@ -6785,3 +6803,4 @@ section { padding: 80px 0; position: relative; width: 100%; overflow: hidden; z-
     font-size: 10px !important;
   }
 }
+
